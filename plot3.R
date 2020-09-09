@@ -20,3 +20,5 @@ legend("topright", lty=1, col=c("black","red","blue"),legend=c("Sub_metering_1",
 
 # annotating graph
 title(main="Energy sub-metering")
+
+dev.off()
