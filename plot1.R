@@ -8,3 +8,5 @@ hist(as.numeric(as.character(subpower$Global_active_power)),col="red",main="Glob
 
 # annotating graph
 title(main="Global Active Power")
+
+dev.off()
